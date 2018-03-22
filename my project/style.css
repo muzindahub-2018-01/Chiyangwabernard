@@ -1,0 +1,149 @@
+
+/*---links-----*/
+a:visited {
+    color:orange;
+    background-color: transparent;
+    text-shadow:2px 4px 10px brown;
+text-decoration: none;
+}
+
+
+a:hover {
+    color:tomato;
+text-decoration: none;
+}
+
+a:link {
+text-decoration:none;
+color:white;
+
+}
+
+span { 
+    color: brown;
+    text-align: center;
+}
+
+
+article {
+    color:brown;
+    font-weight:bold;
+    text-align: center;
+    font-size: 25px;
+ text-shadow:2px 4px 1px white;
+}
+ h1 {
+
+
+background-image: url(img/bbk
+.jpg);
+background-size:cover;
+    color:brown;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+   padding: 115px;
+    margin: 1px;
+    /*---- borders and the raius makes the borders round*/
+    border-top:9px;
+     border-bottom-style:solid;
+    border-top-style: solid;
+    border-left-style:solid;
+    border-color: brown;
+    border-width: 15px;
+    border-radius:39px 15px;
+   font-weight: bolder;
+   text-shadow:2px 4px 4px white;
+    text-shadow-radius:53px;
+}
+h2 {
+    color:brown;
+    text-align: center;
+text-shadow:2px 4px 5px white;
+
+color:white;
+background-image: url(img/bk.jpg);
+padding: 35px;
+ text-shadow:2px 4px 9px brown;
+ border-top:9px;
+     border-bottom-style:solid;
+    border-top-style: solid;
+    border-left-style:solid;
+    border-color: brown;
+    border-width: 15px;
+    border-radius:39px 15px;
+ font-weight: bolder;
+
+}
+
+
+
+
+
+ 
+ header {
+    color:brown;
+ }
+
+body {
+background-image:url("img/la.jpg");
+background-size:cover;
+}
+
+
+div.desc {
+    padding: 20px;
+    text-align: center;
+    color:white;
+text-shadow:2px 4px 15px brown;
+font-weight:bold;
+vertical-align: 
+}
+
+
+h3 {
+color:white;
+background-image: url("img/bk.jpg");
+padding: 35px;
+ text-shadow:2px 4px 9px brown;
+ border-top:9px;
+     border-bottom-style:solid;
+    border-top-style: solid;
+    border-left-style:solid;
+    border-color: brown;
+    border-width: 15px;
+    border-radius:39px 15px;
+ font-weight: bolder;
+}
+ 
+Articles.html {
+    background-image: url("img/la.jpg");
+    background-size:cover;
+font:color:brown;
+font-size:30px;
+}
+About.html {
+ background-image: url("img/la.jpg");
+    background-size:cover;
+font:color:brown;
+font-size:30px;
+}
+News.html {
+ background-image: url("img/la.jpg");
+    background-size:cover;
+color:white;
+
+
+}
+
+
+
+.footer {
+   position:fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
